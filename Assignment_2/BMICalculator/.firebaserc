@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "lab-7-bmi-calculator",
+    "lab7": "lab-7-bmi-calculator"
+  },
+  "targets": {}
+}
